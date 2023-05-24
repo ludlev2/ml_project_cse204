@@ -1,0 +1,29 @@
+Name,Private Rental Market Statistics 
+ShortName,Average rents in the private sector
+,
+,
+,
+Theme,Housing
+Sub-theme,Rental market
+,
+Title,Average private rents by local authority
+Description,Summary of monthly rents recorded per 12 month rolling period. Data updated quarterly by local authority areas for England
+Subject,Rents
+Subject.keyword,"rent, housing, private, rooms, home"
+Publisher,VOA
+Date.available,Q2 2011 to Q1 2019
+Creator,Valuation Office Agency
+Date.created,Jun-19
+Coverage.spatial,Local Authority
+Coverage.temporal,Bi-annually
+Type,Estimates
+Language,English
+Rights,VOA
+More info,https://www.gov.uk/government/collections/private-rental-market-statistics
+Download from,
+Measure,Numbers and GBP
+Warnings/Notes,"The release presents the mean (average), median, lower quartile, and upper quartile gross monthly rent paid (ignoring any adjustment for services not eligible for housing benefit), for a number of bedroom/room categories for each Local Authority (LA) in England for the 12 month period stated."
+,The sample used to produce these statistics is not statistical and may not be consistent over time as such these data should not be compared across time periods or between areas.
+,
+,
+Next release,Dec-19
